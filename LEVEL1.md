@@ -1,4 +1,4 @@
-# Task 1 - Linear and Logistic Regression - HelloWorld for AIML
+## Task 1 - Linear and Logistic Regression - HelloWorld for AIML
 
 1. Linear Regression - Predict the price of a home, based on multiple different variables. Use sci-kit’s  `linear_model.LinearRegression()`
     - [https://levelup.gitconnected.com/predict-boston-house-prices-using-python-linear-regression-90469e0a341](https://levelup.gitconnected.com/predict-boston-house-prices-using-python-linear-regression-90469e0a341)
@@ -10,17 +10,17 @@
     - [https://medium.com/@jairiidriss/iris-flower-classification-and-decision-boundary-plotting-using-logistic-regression-3c5af7948cb7](https://medium.com/@jairiidriss/iris-flower-classification-and-decision-boundary-plotting-using-logistic-regression-3c5af7948cb7)
     - [https://medium.com/analytics-vidhya/decision-boundary-for-classifiers-an-introduction-cc67c6d3da0e](https://medium.com/analytics-vidhya/decision-boundary-for-classifiers-an-introduction-cc67c6d3da0e)
 
-# Task 2 - Data Visualisation 
+## Task 2 - Data Visualisation 
 
 using matplotlib and diff kinds of plots. (Bar, scatter, Time Series and Histogram).
 
-# Task 3 - Numpy
+## Task 3 - Numpy
 
 Using Numpy Generate an array by repeating a small array across each dimension and Generate an array with element indexes such that the array elements appear in ascending order.
 
 Reference : https://numpy.org/doc/
 
-# Task 4 - Metrics and Performance Evaluation
+## Task 4 - Metrics and Performance Evaluation
 
 1. Regression Metrics - used to evaluate performance of regression algorithms
     - [https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
@@ -31,7 +31,7 @@ Reference : https://numpy.org/doc/
 - [https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)  
 - [https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
 
-# Task 5 - Linear and Logistic Regression - Coding the model from SCRATCH
+## Task 5 - Linear and Logistic Regression - Coding the model from SCRATCH
 
 1. Linear Regression
     1. Understanding
@@ -54,7 +54,7 @@ Reference : https://numpy.org/doc/
         - [https://sushtend.com/machine-learning/datasets-for-practicing-logistic-regression/?__cf_chl_f_tk=6wBaN3mNr761NgK8fFvCgumI2RNoRWClhHYTPpWAs9A-1642397858-0-gaNycGzNCNE](https://sushtend.com/machine-learning/datasets-for-practicing-logistic-regression/?__cf_chl_f_tk=6wBaN3mNr761NgK8fFvCgumI2RNoRWClhHYTPpWAs9A-1642397858-0-gaNycGzNCNE)
 
 
-# Task 6 - K- Nearest Neighbor Algorithm
+## Task 6 - K- Nearest Neighbor Algorithm
 
 1. Implement KNN using sci-kit’s `neighbors.KNeighborsClassifier` for multiple suitable datasets
     - [https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
