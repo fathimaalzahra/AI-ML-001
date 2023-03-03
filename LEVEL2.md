@@ -1,4 +1,4 @@
-# Task 1 - Decision Tree based ID3 Algorithm
+## Task 1 - Decision Tree based ID3 Algorithm
 
 1. Understanding Basic Terminology
     - [https://www.youtube.com/watch?v=zs6yHVtxyv8&amp;ab_channel=Econoscent](https://www.youtube.com/watch?v=zs6yHVtxyv8&amp;ab_channel=Econoscent)
@@ -14,7 +14,7 @@
    - [https://medium.com/geekculture/step-by-step-decision-tree-id3-algorithm-from-scratch-in-python-no-fancy-library-4822bbfdd88f](https://medium.com/geekculture/step-by-step-decision-tree-id3-algorithm-from-scratch-in-python-no-fancy-library-4822bbfdd88f)
    - [https://python-course.eu/machine-learning/decision-trees-in-python.php](https://python-course.eu/machine-learning/decision-trees-in-python.php)
 
-# Task 2 - Naive Bayesian Classifier
+## Task 2 - Naive Bayesian Classifier
 
 1. Understand Naive Bayesian Classifier, watch it in action using sklearn 
     - [https://www.youtube.com/watch?v=O2L2Uv9pdDA](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
@@ -28,7 +28,7 @@
     - [https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 
 
-# Task 3 - Naive Bayesian Classifier
+## Task 3 - Naive Bayesian Classifier
 
 1. Understand Naive Bayesian Classifier, watch it in action using sklearn 
     - [https://www.youtube.com/watch?v=O2L2Uv9pdDA](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
@@ -42,7 +42,7 @@
     - [https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 
 
-# Task 4 - Ensemble techniques 
+## Task 4 - Ensemble techniques 
 
 1. What are ensemble techniques 
     - [https://www.youtube.com/watch?v=Un9zObFjBH0&amp;ab_channel=Udacity](https://www.youtube.com/watch?v=Un9zObFjBH0&amp;ab_channel=Udacity)
@@ -55,7 +55,7 @@
     - [https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset](https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset)
     - [https://sidhantha.medium.com/titanic-survival-prediction-using-ensemble-stacking-663e28926af6](https://sidhantha.medium.com/titanic-survival-prediction-using-ensemble-stacking-663e28926af6)
 
-# Task 5 - Random Forest, GBM and Xgboost
+## Task 5 - Random Forest, GBM and Xgboost
 
 1. Random forest
     1. Understand
@@ -84,7 +84,7 @@
 -   [https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#h2_8](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#h2_8)
 
 
-# Task 6 - Hyperparameter Tuning
+## Task 6 - Hyperparameter Tuning
 
 1. Understanding
     - [https://www.youtube.com/watch?v=ttE0F7fghfk&amp;ab_channel=SirajRaval](https://www.youtube.com/watch?v=ttE0F7fghfk&amp;ab_channel=SirajRaval)
