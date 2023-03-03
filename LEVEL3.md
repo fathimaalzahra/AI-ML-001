@@ -1,4 +1,4 @@
-# Task 1 - Image Classification using KMeans Clustering
+## Task 1 - Image Classification using KMeans Clustering
 
 1. Understanding K Means Clustering    
     - [https://www.youtube.com/watch?v=yR7k19YBqiw&amp;ab_channel=Computerphile](https://www.youtube.com/watch?v=yR7k19YBqiw&amp;ab_channel=Computerphile)
@@ -11,7 +11,7 @@
     - [https://towardsdatascience.com/image-clustering-using-k-means-4a78478d2b83 ](https://towardsdatascience.com/image-clustering-using-k-means-4a78478d2b83)
 
 
-# Task 2 - SVM
+## Task 2 - SVM
 
 1. Understanding Support Vector Machines
     - [https://www.youtube.com/watch?v=_YPScrckx28&amp;ab_channel=VisuallyExplained](https://www.youtube.com/watch?v=_YPScrckx28&amp;ab_channel=VisuallyExplained)
@@ -26,7 +26,7 @@
     - [https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7](https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7)
 
 
-# Task 3 - H20.ai
+## Task 3 - H20.ai
 
 1. [h2o.ai](https://www.h2o.ai/)  
     - [https://www.youtube.com/watch?v=XyJyJf0o53Y&amp;ab_channel=DataProfessor](https://www.youtube.com/watch?v=XyJyJf0o53Y&amp;ab_channel=DataProfessor)
@@ -38,7 +38,7 @@
     - [https://analyticsindiamag.com/hands-on-tutorial-on-automatic-machine-learning-with-h2o-ai-and-automl/](https://analyticsindiamag.com/hands-on-tutorial-on-automatic-machine-learning-with-h2o-ai-and-automl/)
 
 
-# Task 4 - Artificial Neural Network using Backpropagation Algorithm.
+## Task 4 - Artificial Neural Network using Backpropagation Algorithm.
 
 1. Understanding Neural Networks and Backpropagation
     - [https://www.youtube.com/watch?v=FaHHWdsIYQg&amp;ab_channel=SirajRaval](https://www.youtube.com/watch?v=FaHHWdsIYQg&amp;ab_channel=SirajRaval)
