@@ -12,7 +12,7 @@
 
 ## Task 2 - Data Visualisation 
 
-using matplotlib and diff kinds of plots. (Bar, scatter, Time Series and Histogram).
+using matplotlib and plotly, plot different kind of plots like Bar, Scatter, Time Series and Histogram. Also plot an interactive plot using plotly.
 
 ## Task 3 - Numpy
 
