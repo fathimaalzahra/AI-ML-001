@@ -33,16 +33,16 @@ Reference : https://numpy.org/doc/
 
 ## Task 5 - Linear and Logistic Regression - Coding the model from SCRATCH
 
-1. Linear Regression
-    1. Understanding
+1. Linear Regression:
+    1. Understanding:
         - [https://www.youtube.com/watch?v=fnwlz5ARpjo](https://www.youtube.com/watch?v=fnwlz5ARpjo)
-    2. Coding the linear regression algorithm from scratch
+    2. Coding the linear regression algorithm from scratch:
         - [https://towardsdatascience.com/coding-linear-regression-from-scratch-c42ec079902](https://towardsdatascience.com/coding-linear-regression-from-scratch-c42ec079902)
         - [https://www.askpython.com/python/examples/linear-regression-from-scratch](https://www.askpython.com/python/examples/linear-regression-from-scratch)
         - [https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
-    3. Testing your model and comparing  it with sci-kits built-in algorithm for various datasets
+    3. Testing your model and comparing  it with sci-kits built-in algorithm for various datasets:
         - [https://www.telusinternational.com/articles/10-open-datasets-for-linear-regression](https://www.telusinternational.com/articles/10-open-datasets-for-linear-regression) 
-2. Logistic Regression
+2. Logistic Regression:
     1. Understanding
         - [https://www.youtube.com/watch?v=CA-DR44QHZQ](https://www.youtube.com/watch?v=CA-DR44QHZQ)
     2.  Coding the linear regression algorithm from scratch
