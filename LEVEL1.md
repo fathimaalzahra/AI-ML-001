@@ -10,15 +10,52 @@
     - [https://medium.com/@jairiidriss/iris-flower-classification-and-decision-boundary-plotting-using-logistic-regression-3c5af7948cb7](https://medium.com/@jairiidriss/iris-flower-classification-and-decision-boundary-plotting-using-logistic-regression-3c5af7948cb7)
     - [https://medium.com/analytics-vidhya/decision-boundary-for-classifiers-an-introduction-cc67c6d3da0e](https://medium.com/analytics-vidhya/decision-boundary-for-classifiers-an-introduction-cc67c6d3da0e)
 
-## Task 2 - Data Visualisation 
+## Task 2 - Matplotlib and Data Visualisation 
+1. Explore the various basic characteristics to plots as given below, with python libraries:   
+    1.  Set axes label
+    2.  Set axes limits
+    3.  Create a figure with multiple plots using subplot
+    4.  Add a legend to the plot
+    5.  Save your plot as png
 
-using matplotlib and plotly, plot different kind of plots like Bar, Scatter, Time Series and Histogram. Also plot an interactive plot using plotly.
+2. Explore the given plot types:
+
+- Line and Area Plot
+- Scatter and Bubble Plot using Iris dataset
+- Bar Plot    
+    1.  Simple
+    2.  Grouped
+    3.  Stacked
+    4.  Histogram
+ - Pie Plot
+ - Box Plot
+ - Violin Plot
+ - Marginal Plot
+ - Contour Plot
+ - Heatmap
+ - 3D Plot
+ 3.  Make a multivariate distribution for the given dataset using the given dataset for a classification task.
+Understand an elementary idea of clustering, that you will explore in more detail later.
+
+- [https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7](https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7)
+
+- [https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7)
+
+- [https://matplotlib.org/stable/plot_types/index.html](https://matplotlib.org/stable/plot_types/index.html)
+
+- [https://www.mygreatlearning.com/blog/matplotlib-tutorial-for-data-visualisation/](https://www.mygreatlearning.com/blog/matplotlib-tutorial-for-data-visualisation/)
+
+- [https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7](https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7)
+
+
+- [https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work]
+[https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a]([https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
 
 ## Task 3 - Numpy
 
 Using Numpy Generate an array by repeating a small array across each dimension and Generate an array with element indexes such that the array elements appear in ascending order.
 
-Reference : https://numpy.org/doc/
+Reference : [https://numpy.org/doc/]
 
 ## Task 4 - Metrics and Performance Evaluation
 
@@ -69,3 +106,57 @@ Reference : https://numpy.org/doc/
     - [https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
     - [https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
     
+##  Task 7: An elementary step towards understanding Neural Networks
+- Write a blog about your understanding of Neural Networks and types like CNN, ANN, etc. Make sure to include any mathematical implication. You can add the function calls used to implement the algorithms.
+- Learn about Large Language Models at a basic level and make a blog post explaining how you would build GPT-4.
+- References:
+- Neural Networks
+- [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
+- [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
+- [https://youtu.be/u7obuspdQu4](https://youtu.be/u7obuspdQu4)
+- [https://youtu.be/yN7ypxC7838](https://youtu.be/yN7ypxC7838) 
+- LLM
+- [https://youtu.be/rURRYI66E54](https://youtu.be/rURRYI66E54)
+- [https://youtu.be/VPRSBzXzavo](https://youtu.be/VPRSBzXzavo)
+- [https://youtu.be/Mg0imf_85Zw](https://youtu.be/Mg0imf_85Zw)
+
+## Task 8: Mathematics behind machine learning
+Deepen your understanding with proper mathematical constructs that act as backbones for the algorithms you write and implement. Perform the below tasks as indicated:
+
+- Curve-Fitting- Model a curve fitting for a simple function of your choice, on Desmos. 
+- Fourier Transforms- Fourier transforms are perhaps the most important function approximators used today. Model a fourier transform for a function of your choice on MATLAB. 
+- References
+- Curve Fitting
+- [https://youtu.be/g5mptjNfDmw](https://youtu.be/g5mptjNfDmw)  
+- [https://youtu.be/d2p1VUfDf5I](https://youtu.be/d2p1VUfDf5I)
+
+- Fourier Transforms
+- [https://youtu.be/spUNpyF58BY](https://youtu.be/spUNpyF58BY)
+- [https://youtu.be/GPEE8JviDGU](https://youtu.be/GPEE8JviDGU)
+- [https://youtu.be/L3uSisveWvw](https://youtu.be/L3uSisveWvw) 
+
+## Task 9: Data Visualization for Exploratory Data Analysis
+Use Plotly for data visualization. This is an advanced visualization library, more dynamic than the generally used MatPlotlib or Seaborn.
+- References:
+-[https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94]9https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94)
+- [https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners)
+- [https://towardsdatascience.com/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522](https://towardsdatascience.com/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)
+
+## Task 10: An introduction to Decision Trees
+Decision Tree is a supervised learning algorithm that can be used for Regressive or Classifying Tasks. It is a way to use conditional statements as a hierarchy so that, for an event, you get the chances of given outcomes.
+- References:
+-[https://www.youtube.com/watch?v=b4bWm4W7yHE](https://www.youtube.com/watch?v=b4bWm4W7yHE) 
+- [https://youtu.be/PHxYNGo8NcI](https://youtu.be/PHxYNGo8NcI)
+- [https://youtu.be/_L39rN6gz7Y](https://youtu.be/_L39rN6gz7Y) 
+
+## Task 11: Exploration of a Real world application of Machine Learning
+Algorithms trained by a student taking their first steps into Machine learning are vastly different from algorithms used for professional deployment. Find out what’s on the market, and why it’s on the market, i.e. take a real world project and document the use of Machine Learning algorithms and mathematical constructs used in it.This task can be done as a case study.
+- References:
+- [https://youtu.be/ZJixNvx9BAc](https://youtu.be/ZJixNvx9BAc)
+- [https://youtu.be/xSGX8gBQDO8](https://youtu.be/xSGX8gBQDO8)
+- [https://www.youtube.com/live/WyHPyWrvAts?feature=share](https://www.youtube.com/live/WyHPyWrvAts?feature=share)
+- [https://youtu.be/U0XtE4_QLXI](https://youtu.be/U0XtE4_QLXI)
+
+
+
+
